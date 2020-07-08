@@ -4,11 +4,10 @@
 .top-banner{
     background-color: #F0FFF0;
     width: 1440px;
-    height: 576px;
+    height: 550px;
     padding: 10px 100px;
 }
 .buy-now-button{
-    border: 2px solid black;
     border-radius: 50px;
     background-color: green;
     color: white;
@@ -21,8 +20,8 @@
     margin-top: 100px;
 }
 .text img{
-    width: 454px;
-    height: 326px;
+    width: 450px;
+    height: 300px;
 }
 .Courses-info{
     text-align: center;
