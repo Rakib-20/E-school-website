@@ -74,6 +74,13 @@ h2{
 .testy{
     margin-top: 20px;
 }
+.carousel-item{
+    padding: 20px 40px;
+    background-color: #F0FFF0;
+}
+.carosaul-bg{
+
+}
 .footer{
     color: white;
     background-color: #282531;
