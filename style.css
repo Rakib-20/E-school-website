@@ -3,9 +3,7 @@
 }
 .top-banner{
     background-color: #F0FFF0;
-    width: 1440px;
-    height: 550px;
-    padding: 10px 100px;
+    padding: 20px 100px 50px;
 }
 .buy-now-button{
     border-radius: 50px;
@@ -21,7 +19,7 @@
 }
 .text img{
     width: 450px;
-    height: 300px;
+    height: 250px;
 }
 .Courses-info{
     text-align: center;
@@ -79,8 +77,6 @@ h2{
     margin-top: 20px;
 }
 .footer{
-    width: 1440px;
-    height: 369px;
     color: white;
     background-color: #282531;
     padding: 40px 60px 20px 100px;
